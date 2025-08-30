@@ -1,0 +1,33 @@
+name: PEAD Yahoo (free)
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # AMC PRE capture: 19:55 UTC (Mon-Fri)
+    - cron: "55 19 * * 1-5"
+    # POST capture (and BMO PRE for tomorrow): 20:05 UTC (Mon-Fri)
+    - cron: "5 20 * * 1-5"
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run PEAD script
+        run: |
+          python scripts/run_yahoo_pead.py
+
+      - name: Commit report & snapshots
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "PEAD: auto-run ($(date -u +'%Y-%m-%dT%H:%MZ'))"
+          add_options: "-A"
