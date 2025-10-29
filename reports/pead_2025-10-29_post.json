@@ -1,5 +1,5 @@
 {
-  "executionTimestamp": "2025-10-29T20:13:59.722482+00:00",
+  "executionTimestamp": "2025-10-29T20:31:28.350203+00:00",
   "basis": "vs D-1 close",
   "mode": "Yahoo-first (free)",
   "phase": "post",
@@ -8,7 +8,7 @@
       "ticker": "AFRM",
       "reportDate": "2025-08-28",
       "class": "AMC",
-      "timestampUtc": "2025-10-29T20:13:59.722482+00:00",
+      "timestampUtc": "2025-10-29T20:31:28.350203+00:00",
       "iv30": {
         "pre": null,
         "post": null,
@@ -38,7 +38,7 @@
       "ticker": "AMBA",
       "reportDate": "2025-08-28",
       "class": "AMC",
-      "timestampUtc": "2025-10-29T20:13:59.722482+00:00",
+      "timestampUtc": "2025-10-29T20:31:28.350203+00:00",
       "iv30": {
         "pre": null,
         "post": null,
@@ -68,7 +68,7 @@
       "ticker": "ADSK",
       "reportDate": "2025-08-28",
       "class": "AMC",
-      "timestampUtc": "2025-10-29T20:13:59.722482+00:00",
+      "timestampUtc": "2025-10-29T20:31:28.350203+00:00",
       "iv30": {
         "pre": null,
         "post": null,
@@ -98,7 +98,7 @@
       "ticker": "DELL",
       "reportDate": "2025-08-28",
       "class": "AMC",
-      "timestampUtc": "2025-10-29T20:13:59.722482+00:00",
+      "timestampUtc": "2025-10-29T20:31:28.350203+00:00",
       "iv30": {
         "pre": null,
         "post": null,
@@ -128,7 +128,7 @@
       "ticker": "ESTC",
       "reportDate": "2025-08-28",
       "class": "AMC",
-      "timestampUtc": "2025-10-29T20:13:59.722482+00:00",
+      "timestampUtc": "2025-10-29T20:31:28.350203+00:00",
       "iv30": {
         "pre": null,
         "post": null,
@@ -158,7 +158,7 @@
       "ticker": "GPS",
       "reportDate": "2025-08-28",
       "class": "AMC",
-      "timestampUtc": "2025-10-29T20:13:59.722482+00:00",
+      "timestampUtc": "2025-10-29T20:31:28.350203+00:00",
       "iv30": {
         "pre": null,
         "post": null,
@@ -188,7 +188,7 @@
       "ticker": "MRVL",
       "reportDate": "2025-08-28",
       "class": "AMC",
-      "timestampUtc": "2025-10-29T20:13:59.722482+00:00",
+      "timestampUtc": "2025-10-29T20:31:28.350203+00:00",
       "iv30": {
         "pre": null,
         "post": null,
@@ -218,7 +218,7 @@
       "ticker": "WOOF",
       "reportDate": "2025-08-28",
       "class": "AMC",
-      "timestampUtc": "2025-10-29T20:13:59.722482+00:00",
+      "timestampUtc": "2025-10-29T20:31:28.350203+00:00",
       "iv30": {
         "pre": null,
         "post": null,
@@ -248,7 +248,7 @@
       "ticker": "S",
       "reportDate": "2025-08-28",
       "class": "AMC",
-      "timestampUtc": "2025-10-29T20:13:59.722482+00:00",
+      "timestampUtc": "2025-10-29T20:31:28.350203+00:00",
       "iv30": {
         "pre": null,
         "post": null,
@@ -278,7 +278,7 @@
       "ticker": "ULTA",
       "reportDate": "2025-08-28",
       "class": "AMC",
-      "timestampUtc": "2025-10-29T20:13:59.722482+00:00",
+      "timestampUtc": "2025-10-29T20:31:28.350203+00:00",
       "iv30": {
         "pre": null,
         "post": null,
@@ -308,7 +308,7 @@
       "ticker": "IREN",
       "reportDate": "2025-08-28",
       "class": "AMC",
-      "timestampUtc": "2025-10-29T20:13:59.722482+00:00",
+      "timestampUtc": "2025-10-29T20:31:28.350203+00:00",
       "iv30": {
         "pre": null,
         "post": null,
