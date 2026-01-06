@@ -1,0 +1,338 @@
+{
+  "executionTimestamp": "2026-01-06T20:14:40.514135+00:00",
+  "basis": "vs D-1 close",
+  "mode": "Yahoo-first (free)",
+  "phase": "post",
+  "companies": [
+    {
+      "ticker": "AFRM",
+      "reportDate": "2025-08-28",
+      "class": "AMC",
+      "timestampUtc": "2026-01-06T20:14:40.514135+00:00",
+      "iv30": {
+        "pre": null,
+        "post": null,
+        "iv30CrushPct": null,
+        "source": "yahoo",
+        "attempts": []
+      },
+      "realized": {
+        "d0": {
+          "gapFillPct": null,
+          "clv": null
+        }
+      },
+      "guidancePattern": {
+        "label": "Maintain (Data-Lite)",
+        "rationale": "Free mode (no IR/8-K parse)"
+      },
+      "peadPct": 0.0,
+      "rangePct": [
+        -3,
+        3
+      ],
+      "confidence": 0.35,
+      "continuationFriendly": null
+    },
+    {
+      "ticker": "AMBA",
+      "reportDate": "2025-08-28",
+      "class": "AMC",
+      "timestampUtc": "2026-01-06T20:14:40.514135+00:00",
+      "iv30": {
+        "pre": null,
+        "post": null,
+        "iv30CrushPct": null,
+        "source": "yahoo",
+        "attempts": []
+      },
+      "realized": {
+        "d0": {
+          "gapFillPct": null,
+          "clv": null
+        }
+      },
+      "guidancePattern": {
+        "label": "Maintain (Data-Lite)",
+        "rationale": "Free mode (no IR/8-K parse)"
+      },
+      "peadPct": 0.0,
+      "rangePct": [
+        -3,
+        3
+      ],
+      "confidence": 0.35,
+      "continuationFriendly": null
+    },
+    {
+      "ticker": "ADSK",
+      "reportDate": "2025-08-28",
+      "class": "AMC",
+      "timestampUtc": "2026-01-06T20:14:40.514135+00:00",
+      "iv30": {
+        "pre": null,
+        "post": null,
+        "iv30CrushPct": null,
+        "source": "yahoo",
+        "attempts": []
+      },
+      "realized": {
+        "d0": {
+          "gapFillPct": null,
+          "clv": null
+        }
+      },
+      "guidancePattern": {
+        "label": "Maintain (Data-Lite)",
+        "rationale": "Free mode (no IR/8-K parse)"
+      },
+      "peadPct": 0.0,
+      "rangePct": [
+        -3,
+        3
+      ],
+      "confidence": 0.35,
+      "continuationFriendly": null
+    },
+    {
+      "ticker": "DELL",
+      "reportDate": "2025-08-28",
+      "class": "AMC",
+      "timestampUtc": "2026-01-06T20:14:40.514135+00:00",
+      "iv30": {
+        "pre": null,
+        "post": null,
+        "iv30CrushPct": null,
+        "source": "yahoo",
+        "attempts": []
+      },
+      "realized": {
+        "d0": {
+          "gapFillPct": null,
+          "clv": null
+        }
+      },
+      "guidancePattern": {
+        "label": "Maintain (Data-Lite)",
+        "rationale": "Free mode (no IR/8-K parse)"
+      },
+      "peadPct": 0.0,
+      "rangePct": [
+        -3,
+        3
+      ],
+      "confidence": 0.35,
+      "continuationFriendly": null
+    },
+    {
+      "ticker": "ESTC",
+      "reportDate": "2025-08-28",
+      "class": "AMC",
+      "timestampUtc": "2026-01-06T20:14:40.514135+00:00",
+      "iv30": {
+        "pre": null,
+        "post": null,
+        "iv30CrushPct": null,
+        "source": "yahoo",
+        "attempts": []
+      },
+      "realized": {
+        "d0": {
+          "gapFillPct": null,
+          "clv": null
+        }
+      },
+      "guidancePattern": {
+        "label": "Maintain (Data-Lite)",
+        "rationale": "Free mode (no IR/8-K parse)"
+      },
+      "peadPct": 0.0,
+      "rangePct": [
+        -3,
+        3
+      ],
+      "confidence": 0.35,
+      "continuationFriendly": null
+    },
+    {
+      "ticker": "GPS",
+      "reportDate": "2025-08-28",
+      "class": "AMC",
+      "timestampUtc": "2026-01-06T20:14:40.514135+00:00",
+      "iv30": {
+        "pre": null,
+        "post": null,
+        "iv30CrushPct": null,
+        "source": "yahoo",
+        "attempts": []
+      },
+      "realized": {
+        "d0": {
+          "gapFillPct": null,
+          "clv": null
+        }
+      },
+      "guidancePattern": {
+        "label": "Maintain (Data-Lite)",
+        "rationale": "Free mode (no IR/8-K parse)"
+      },
+      "peadPct": 0.0,
+      "rangePct": [
+        -3,
+        3
+      ],
+      "confidence": 0.35,
+      "continuationFriendly": null
+    },
+    {
+      "ticker": "MRVL",
+      "reportDate": "2025-08-28",
+      "class": "AMC",
+      "timestampUtc": "2026-01-06T20:14:40.514135+00:00",
+      "iv30": {
+        "pre": null,
+        "post": null,
+        "iv30CrushPct": null,
+        "source": "yahoo",
+        "attempts": []
+      },
+      "realized": {
+        "d0": {
+          "gapFillPct": null,
+          "clv": null
+        }
+      },
+      "guidancePattern": {
+        "label": "Maintain (Data-Lite)",
+        "rationale": "Free mode (no IR/8-K parse)"
+      },
+      "peadPct": 0.0,
+      "rangePct": [
+        -3,
+        3
+      ],
+      "confidence": 0.35,
+      "continuationFriendly": null
+    },
+    {
+      "ticker": "WOOF",
+      "reportDate": "2025-08-28",
+      "class": "AMC",
+      "timestampUtc": "2026-01-06T20:14:40.514135+00:00",
+      "iv30": {
+        "pre": null,
+        "post": null,
+        "iv30CrushPct": null,
+        "source": "yahoo",
+        "attempts": []
+      },
+      "realized": {
+        "d0": {
+          "gapFillPct": null,
+          "clv": null
+        }
+      },
+      "guidancePattern": {
+        "label": "Maintain (Data-Lite)",
+        "rationale": "Free mode (no IR/8-K parse)"
+      },
+      "peadPct": 0.0,
+      "rangePct": [
+        -3,
+        3
+      ],
+      "confidence": 0.35,
+      "continuationFriendly": null
+    },
+    {
+      "ticker": "S",
+      "reportDate": "2025-08-28",
+      "class": "AMC",
+      "timestampUtc": "2026-01-06T20:14:40.514135+00:00",
+      "iv30": {
+        "pre": null,
+        "post": null,
+        "iv30CrushPct": null,
+        "source": "yahoo",
+        "attempts": []
+      },
+      "realized": {
+        "d0": {
+          "gapFillPct": null,
+          "clv": null
+        }
+      },
+      "guidancePattern": {
+        "label": "Maintain (Data-Lite)",
+        "rationale": "Free mode (no IR/8-K parse)"
+      },
+      "peadPct": 0.0,
+      "rangePct": [
+        -3,
+        3
+      ],
+      "confidence": 0.35,
+      "continuationFriendly": null
+    },
+    {
+      "ticker": "ULTA",
+      "reportDate": "2025-08-28",
+      "class": "AMC",
+      "timestampUtc": "2026-01-06T20:14:40.514135+00:00",
+      "iv30": {
+        "pre": null,
+        "post": null,
+        "iv30CrushPct": null,
+        "source": "yahoo",
+        "attempts": []
+      },
+      "realized": {
+        "d0": {
+          "gapFillPct": null,
+          "clv": null
+        }
+      },
+      "guidancePattern": {
+        "label": "Maintain (Data-Lite)",
+        "rationale": "Free mode (no IR/8-K parse)"
+      },
+      "peadPct": 0.0,
+      "rangePct": [
+        -3,
+        3
+      ],
+      "confidence": 0.35,
+      "continuationFriendly": null
+    },
+    {
+      "ticker": "IREN",
+      "reportDate": "2025-08-28",
+      "class": "AMC",
+      "timestampUtc": "2026-01-06T20:14:40.514135+00:00",
+      "iv30": {
+        "pre": null,
+        "post": null,
+        "iv30CrushPct": null,
+        "source": "yahoo",
+        "attempts": []
+      },
+      "realized": {
+        "d0": {
+          "gapFillPct": null,
+          "clv": null
+        }
+      },
+      "guidancePattern": {
+        "label": "Maintain (Data-Lite)",
+        "rationale": "Free mode (no IR/8-K parse)"
+      },
+      "peadPct": 0.0,
+      "rangePct": [
+        -3,
+        3
+      ],
+      "confidence": 0.35,
+      "continuationFriendly": null
+    }
+  ]
+}
